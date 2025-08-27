@@ -1,0 +1,1 @@
+find . -depth -type f \( -name "*.\$\$\$" -or -name "*.id0" -or -name "*.id1" -or -name "*.id2" -or -name "*.nam" -or -name "*.til" \) -exec rm -f {} \;

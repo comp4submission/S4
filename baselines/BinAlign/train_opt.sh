@@ -1,0 +1,1 @@
+python2 ImprovedBinAlign.py -d '/dev/shm/ogx_dataset/opt/train/' -om opt_l64 -s 50000 -g -1 -e 50 -b 1000 -l 64 -o result_opt_l64
